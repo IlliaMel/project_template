@@ -5,4 +5,4 @@ venv/
 .idea/
 
 # Exclude .data folder
-.data/
+data/
