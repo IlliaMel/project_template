@@ -1,0 +1,5 @@
+numpy-1.26.4
+pandas-2.2.0
+matplotlib-3.8.2
+pylint-3.0.4
+black-24.2.0
